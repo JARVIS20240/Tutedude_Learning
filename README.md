@@ -1,5 +1,5 @@
 # tutedude-python
-# Tutedude Tasks for Submission Assignment
+# Tutedude Tasks for Submission Assignment-1
 
 This repository is dedicated to learning new things for growth and staying consistent each day.
 
